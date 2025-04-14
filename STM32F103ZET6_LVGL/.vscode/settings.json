@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "stdio.h": "c",
+        "myprintf.h": "c"
+    }
+}
