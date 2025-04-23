@@ -1,0 +1,98 @@
+build/object/lv_img_buf.o: \
+ d:\desktop\nxpproj\clock\lvgl\src\draw\lv_img_buf.c \
+ d:\desktop\nxpproj\clock\lvgl\src\draw\lv_img_buf.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_color.h \
+ d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h \
+ d:\desktop\nxpproj\clock\lvgl\src\lv_conf_kconfig.h \
+ D:/Desktop/NXPPROJ/CLOCK/lvgl-simulator/lv_conf.h \
+ d:\desktop\nxpproj\clock\custom\lv_conf_ext.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_assert.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_log.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_types.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_mem.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_math.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h \
+ d:\desktop\nxpproj\clock\lvgl\src\draw\lv_draw_img.h \
+ d:\desktop\nxpproj\clock\lvgl\src\draw\lv_img_decoder.h \
+ d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_fs.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_types.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_style.h \
+ d:\desktop\nxpproj\clock\lvgl\src\font\lv_font.h \
+ d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h \
+ d:\desktop\nxpproj\clock\lvgl\src\font\lv_symbol_def.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_color.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_anim.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_txt.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_printf.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_bidi.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_style_gen.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_math.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_log.h \
+ d:\desktop\nxpproj\clock\lvgl\src\misc\lv_mem.h
+
+d:\desktop\nxpproj\clock\lvgl\src\draw\lv_img_buf.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_color.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\lv_conf_kconfig.h:
+
+D:/Desktop/NXPPROJ/CLOCK/lvgl-simulator/lv_conf.h:
+
+d:\desktop\nxpproj\clock\custom\lv_conf_ext.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_assert.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_log.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_types.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_mem.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_math.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\draw\lv_draw_img.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\draw\lv_img_decoder.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_fs.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_types.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_style.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\font\lv_font.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\lv_conf_internal.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\font\lv_symbol_def.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_color.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_area.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_anim.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_txt.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_printf.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_bidi.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_style_gen.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_math.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_log.h:
+
+d:\desktop\nxpproj\clock\lvgl\src\misc\lv_mem.h:

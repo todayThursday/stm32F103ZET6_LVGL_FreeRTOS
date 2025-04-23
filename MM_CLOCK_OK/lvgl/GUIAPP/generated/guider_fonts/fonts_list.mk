@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_Amiko_Regular_72.c lv_font_SourceHanSerifSC_Regular_16.c lv_font_SourceHanSerifSC_Regular_12.c
